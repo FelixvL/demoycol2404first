@@ -23,3 +23,4 @@ huis1 = Huis()
 huis1.huisnummer = 35
 
 huis1.verkopen()
+huis2 = Huis()
